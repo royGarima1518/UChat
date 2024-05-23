@@ -35,6 +35,13 @@ U Chat is a cool chat app made with the MERN stack, allowing you to chat with lo
 #### Avatar 
 - **Profile Picture Upload**: Upload your profile picture to personalize your account.
 
+## Additional Features
+1. Registration for new user
+2. Login for registered user
+3. Set avatar for your profile
+4. Chat with users
+5. Logout
+
 ## Tech Stack
 
 ### Frontend
@@ -55,3 +62,9 @@ U Chat is a cool chat app made with the MERN stack, allowing you to chat with lo
 
 ### Open the App
 - Open http://localhost:3000 with your browser to see the app.
+
+## Getting Started Instructions
+
+### Clone the project
+```sh
+git clone https://github.com/royGarima1518/UChat.git
