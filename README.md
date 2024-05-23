@@ -59,3 +59,6 @@ U Chat is a cool chat app made with the MERN stack, allowing you to chat with lo
 ### Other Tools
 - Socket.IO
 - NPM Packages
+
+### Open the App
+- Open http://localhost:3000 with your browser to see the app.
