@@ -43,6 +43,7 @@ U Chat is a cool chat app made with the MERN stack, allowing you to chat with lo
 3. Set avatar for your profile
 4. Chat with users
 5. Logout
+6. Emoji picker for enhanced expressiveness in messages
 
 ## Tech Stack
 
