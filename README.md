@@ -27,19 +27,12 @@ U Chat is a cool chat app made with the MERN stack, allowing you to chat with lo
 
 #### Messages
 - **Effortless Chatting**: Communicate with others through Socket.IO's seamless functionality.
-- **Voice-Based Input**: Enjoy hassle-free messaging with voice-based text input capabilities.
 - **Typing Indicator**: Stay informed with a typing indicator that signals whether the other person is currently typing.
-
-#### Groups
-- **Group Creation**: Effortlessly create group chats.
-- **Admin Control**: Admin privileges allow for group updates, including changing the group's name or managing user additions and deletions.
-
-#### Search
-- **Robust Search Functionality**: Easily find people within the application.
-- **Selection Capability**: Select individuals from the search results to initiate conversations seamlessly.
 
 #### Settings
 - **Credential Updates**: Modify your credentials such as email and name.
+
+#### Avatar 
 - **Profile Picture Upload**: Upload your profile picture to personalize your account.
 
 ## Tech Stack
