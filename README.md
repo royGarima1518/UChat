@@ -3,7 +3,7 @@
 ## 🌟 Welcome to U Chat
 U Chat is a cool chat app made with the MERN stack, allowing you to chat with lots of people at once. You can make your profile special by adding your own picture. It's safe and easy to use with a simple login and registration system. But what makes U Chat really fun is that you can use lots of different emojis to express yourself. With its easy-to-use design, U Chat is more than just a chat app – it's a fun and friendly space where you can chat with friends and show off your personality.
 
-## About Project
+## Demo
 
 ![U Chat Demo](images/uchat1.png)
 ![U Chat Demo](images/uchat2.png)
@@ -11,6 +11,8 @@ U Chat is a cool chat app made with the MERN stack, allowing you to chat with lo
 ![U Chat Demo](images/uchat4.png)
 ![U Chat Demo](images/uchat5.png)
 ![U Chat Demo](images/uchat6.png)
+
+## About Project
 
 ### Features and Interfaces
 
